@@ -2,11 +2,11 @@
 
 ⚡ I'm a web developer!
 
-🔭 I’m currently working on my minecraft server
+🔭 I’m currently working on my Minecraft server
 
 ➡️ For my other projects: https://millee.xyz
 
-😄 Pronouns: he/him or they/them
+😄 Pronouns: they/them or he/him
 
 <!--
 **reallymillee/reallymillee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

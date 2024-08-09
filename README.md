@@ -4,7 +4,7 @@
 
 🔭 I’m currently working on my Minecraft server
 
-➡️ For my other projects: https://millee.xyz
+➡️ For my other projects: [millee.xyz](https://millee.xyz)
 
 😄 Pronouns: they/them or he/him
 
